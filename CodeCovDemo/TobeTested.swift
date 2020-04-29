@@ -24,4 +24,8 @@ class TestClass {
     func test2() -> Int {
         return a - b
     }
+    
+    func test3() -> Int {
+        return a * b
+    }
 }
