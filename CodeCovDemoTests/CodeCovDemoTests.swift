@@ -16,6 +16,7 @@ class CodeCovDemoTests: XCTestCase {
         
         XCTAssertEqual(test.test1(), 4)
         XCTAssertEqual(test.test2(), 0)
+        XCTAssertEqual(test.test3(), 4)
 
     }
 
